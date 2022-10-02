@@ -18,6 +18,11 @@ a {
     height: 100vh;
     box-sizing: border-box;
     background-color: white;
+    position: relative;
+    background-image: url(img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 nav {
@@ -52,5 +57,33 @@ nav {
     font-weight: bold;
     color: aqua;
     font-family: 'Barlow Semi Condensed', sans-serif;   
-    
+}
+.nav_bar li a:hover,
+.active{
+    background-color: gray;
+    color: red !important;
+    font-weight: 700;
+    transition: all ease 0.4s;
+}
+
+.name {
+    font-family: 'Barlow Semi Condensed', sans-serif; 
+    width: 500px;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    transform: translate(-20%,-50% );
+}
+
+.name h1 {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    letter-spacing: 3px;
+    color: purple;
+}
+
+.name p {
+    color: red;
+    font-size: 16px;
 }
