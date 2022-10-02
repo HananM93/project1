@@ -4,7 +4,7 @@
 
 |  Day   |                 Deliverable                  |   Status   |
 | :---   |                   :------:                   |       ---: |
-| Day 1  | Project Description                          | Incomplete |
+| Day 1  | Project Description                          | complete   |
 | Day 2  | Wireframes / Priority Matrix / Timeline      | Incomplete |
 | Day 3  | Core Application Structure (HTML, CSS, etc.) | Incomplete |
 | Day 4  | MVP & Bug Fixes                              | Incomplete |
