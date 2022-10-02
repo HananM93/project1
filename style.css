@@ -21,8 +21,8 @@ a {
     position: relative;
     background-image: url(img.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: 1330px;
+    background-position: right;
 }
 
 nav {
@@ -80,10 +80,28 @@ nav {
     font-size: 40px;
     margin: 0px;
     letter-spacing: 3px;
-    color: white;
+    color: black;
 }
 
 .name p {
-    color: white;
+    color: black;
     font-size: 16px;
+}
+
+.socials {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: flex;
+}
+.socials a {
+    margin: 6px 12px;
+}
+
+.socials i {
+    color: black;
+    font-size: 14px;
+}
+.socials a:hover i {
+    color: red;
 }
