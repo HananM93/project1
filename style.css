@@ -9,7 +9,6 @@ section {
 .main {
     width: 100%;
     height: 100vh;
-    background-color: white;
     position: relative;
     background-image: url(images/img.webp);
     background-size: cover;
@@ -63,19 +62,17 @@ textarea.contact-form-text {
     height: 150px;
 }
 
-button {
+.btn {
     float: center;
     border: 0;
-    background-color: blue;
-    color: yellow;
     padding: 12px 50px;
     border-radius: 20px;
     cursor: pointer;
     transform: 0.5s;
 }
 
-button:hover {
-    background-color: black;
+.btn:hover {
+    background-color: rgb(245, 193, 189);
 }
 
 
@@ -131,7 +128,7 @@ h1 {
 
 h2 {
     font-size: 50px;
-    color: black;
+    color: rgb(245, 193, 189);
     display: flex;
     justify-content: center;
     
@@ -161,6 +158,7 @@ p {
     flex-wrap: nowrap;
     justify-content: flex-start;
     align-items: center;
+    font-size: 25px;
 }
 
 .socials a{
@@ -177,14 +175,17 @@ p {
 .mid {
     display: flex;
     justify-content: space-around;
-    padding: 60px;
-    background-color: white;
+    background-color: white ;
 }
+
+hr.solid {
+    border-top: 3px solid rgb(200, 200, 200);
+  }
 
 .project-info {
     width: 300px;
     height: 500px;
-    box-shadow: 5px 5px 2px rgb(163, 161, 161);
+    box-shadow: 5px 5px 2px rgb(200, 200, 200);
     margin: 10px;
 }
 .inside-project {
