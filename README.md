@@ -1,3 +1,6 @@
+
+## Live Demo: https://hananm93.github.io/
+
 # Portfolio Readme
 
 ## Project Schedule
@@ -24,9 +27,9 @@
 | Hamburger Menu          |     H     |  2hr     |    3HR      |
 | Project Previews        |     H     |  1hr     |    2HR      |
 | Regular Nav             |     H     |  2hr     |    1HR      |
-| Adding Form             |     H     |  1hr     |    1HR      |
+| Adding Form             |     L     |  1hr     |    1HR      |
 | Other sections and flex |     H     |  4hr     |    5HR      |
-| Working with API        |     H     |  1hr     |    1HR      |
+| Working with API        |     L     |  1hr     |    1HR      |
 | Responsive              |     H     |  2hr     |    3HR      |
 | Social Media Icons      |     L     |  1hr     |    1HR      |
 | Total                   |           |  12hrs   |   17HRS     |
@@ -36,18 +39,18 @@
 
 |  Component            | Priority  | Estimated Time  | Actual Time |
 | :---                  |   :---:   |     :---:       |        ---: |
-| Project Hover         |     H     |      1hr        |     HR      |
-| Banner letters wiggle |     H     |      1hr        |     HR      |
-| Interactive Banner    |     H     |      1hr        |     HR      |
-| Materialize           |     H     |      1hr        |     HR      |
-| Bootstrap             |     H     |      1hr        |     HR      |
-| Make own icon         |     H     |      1hr        |     HR      |
-| Total                 |           |    15.5hrs      |     HRS     |
+| Project Hover         |     H     |      1hr        |    1HR      |
+| Icons wiggle          |     H     |      1hr        |    2HR      |
+| Materialize           |     H     |      6hr        |    5HR      |
+| Bootstrap             |     H     |      5hr        |    6HR      |
+| Make own icon         |     L     |      1hr        |    2HR      |
+| Total                 |           |    14hrs        |   16HRS     |
 
 
 ## Additional Libraries Used
 ### https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md#cheatsheets
 ### https://getbootstrap.com/
+### https://www.w3schools.com/tags/
 
 ## Code Snippet
 
