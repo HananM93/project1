@@ -15,13 +15,20 @@ section {
     background-size: cover;
     background-position: center;
 }
-
+ 
 footer {
     color: white;
     text-align: center;
     padding: 80px;
     background-color: rgb(71, 109, 134)
-} 
+}  
+
+.contact-me {
+    font-size: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
 
 
 nav {
@@ -197,7 +204,7 @@ a {
 
     ul {
         display: none;
-        margin: 0ppx;
+        margin: 0px;
     }
 
     ul.show {
