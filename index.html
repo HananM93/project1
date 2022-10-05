@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="script.js">
+    <script src="script.js" defer></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/7f0164a4ed.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>Personal Portfolio</title>
 </head>
 <body>
     <section class="main">
         <nav>
-            <img class= "logo" src="img3.png" alt="Hanan's Logo">
+            <img class= "logo" src="images/img3.png" alt="Hanan's Logo">
             <ul id="nav-list">
                 <li><a href="#about-me">About  </a></li>
                 <li><a href="#projects">Projects</a></li>
@@ -26,15 +26,15 @@
         </nav>
 
       <div class="socials">
-        <a href="#"><i class="fa-brands fa-instagram"></i></a> 
-        <a href="#"><i class="fa-brands fa-linkedin"></i></a>  
-        <a href="#"><i class="fa-brands fa-github"></i></a> 
+        <a href="https://www.instagram.com/_dreamofnadia/" class="fa fa-instagram"></a>
+        <a href="https://www.linkedin.com/in/hanan-mohamed-73276417a/" class="fa fa-linkedin"></a>  
+        <a href="https://github.com/HananM93" class="fa fa-github"></a> 
        </div>
  
         <div class="main-center">
             <div class="main-text">
                 <h1>Hanan Mohamed</h1>
-                <p>Software Engineer</p>
+                <p class="center-text">Software Engineer</p>
             </div>
         </div>
 
@@ -49,14 +49,41 @@
     <section class="mid2" id="projects">
         <h2>Projects</h2>
         <div class="inside-project">
-            <div class="project-info"></div>
-            <div class="project-info"></div>
-            <div class="project-info"></div>
+            <div class="project-info">
+                <img class="project-img" src="images/img2.png" alt="P1 img">
+                <h3>Project One</h3>
+                <p class="sub-text>">add text here</p>
+                <hr/>
+                <p class="subtext"><a class="link" href="https://www.google.com">View Project</a></p>
+    
+            </div>
+            <div class="project-info">
+                <img class="project-img" src="images/img2.png" alt="P2 img">
+                <h3>Project Two</h3>
+                <p class="sub-text>">add text here</p>
+                <hr/>
+                <p class="subtext"><a class="link" href="https://www.google.com">View Project</a></p>
+            </div>
+            <div class="project-info">
+                <img class="project-img" src="images/img2.png" alt="P3 img">
+                <h3>Project Three</h3>
+                <p class="sub-text>">add text here</p>
+                <hr/>
+                <p class="subtext"><a class="link" href="https://www.google.com">View Project</a></p>
+            </div>
         </div>
     </section>
     <footer id="contact">
         <h2>Contact me</h2>
         <p>hmohamed015@gmail</p> 
+         <form action="https://formsubmit.co/hmohamed015@gmail.com"
+       method="POST">
+       <input type="email" name="email" placeholder="Email Address">
+           <input type="text" name="name" placeholder= "write your message here" frequired>
+           <button type="submit">Send</button>
+      </form> 
+      
+
     </footer>
 </body>
 </html>
