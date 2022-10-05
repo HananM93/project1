@@ -1,3 +1,6 @@
+
+## Live Demo: https://hananm93.github.io/
+
 # Portfolio Readme
 
 ## Project Schedule
@@ -5,11 +8,11 @@
 |  Day   |                 Deliverable                  |   Status   |
 | :---   |                   :------:                   |       ---: |
 | Day 1  | Project Description                          | complete   |
-| Day 2  | Wireframes / Priority Matrix / Timeline      | Incomplete |
-| Day 3  | Core Application Structure (HTML, CSS, etc.) | Incomplete |
-| Day 4  | MVP & Bug Fixes                              | Incomplete |
-| Day 5  | Final Touches                                | Incomplete |
-| Day 6  | Present                                      | Incomplete |
+| Day 2  | Wireframes / Priority Matrix / Timeline      | complete   |
+| Day 3  | Core Application Structure (HTML, CSS, etc.) | complete   |
+| Day 4  | MVP & Bug Fixes                              | complete   | 
+| Day 5  | Final Touches                                | complete   |
+| Day 6  | Present                                      | complete   |
 
 
 ## Wireframes
@@ -21,34 +24,35 @@
 
 |  Component              | Priority  | Status   | Actual Time |
 | :---                    |   :---:   | :---:    |   ---:      |
-| Hamburger Menu          |     H     |  1hr     |     HR      |
-| Project Previews        |     H     |  1hr     |     HR      |
-| Regular Nav             |     H     |  1hr     |     HR      |
-| Adding Form             |     H     |  1hr     |     HR      |
-| Other sections and flex |     H     |  1hr     |     HR      |
-| Working with API        |     H     |  1hr     |     HR      |
-| Responsive              |     H     |  1hr     |     HR      |
-| Social Media Icons      |     H     |  1hr     |     HR      |
-| Total                   |           |  15.5hrs |     HRS     |
+| Hamburger Menu          |     H     |  2hr     |    3HR      |
+| Project Previews        |     H     |  1hr     |    2HR      |
+| Regular Nav             |     H     |  2hr     |    1HR      |
+| Adding Form             |     L     |  1hr     |    1HR      |
+| Other sections and flex |     H     |  4hr     |    5HR      |
+| Working with API        |     L     |  1hr     |    1HR      |
+| Responsive              |     H     |  2hr     |    3HR      |
+| Social Media Icons      |     L     |  1hr     |    1HR      |
+| Total                   |           |  12hrs   |   17HRS     |
 
 
 ### PostMVP
 
 |  Component            | Priority  | Estimated Time  | Actual Time |
 | :---                  |   :---:   |     :---:       |        ---: |
-| Project Hover         |     H     |      1hr        |     HR      |
-| Banner letters wiggle |     H     |      1hr        |     HR      |
-| Interactive Banner    |     H     |      1hr        |     HR      |
-| Materialize           |     H     |      1hr        |     HR      |
-| Bootstrap             |     H     |      1hr        |     HR      |
-| Make own icon         |     H     |      1hr        |     HR      |
-| Total                 |           |    15.5hrs      |     HRS     |
+| Project Hover         |     H     |      1hr        |    1HR      |
+| Icons wiggle          |     H     |      1hr        |    2HR      |
+| Materialize           |     H     |      6hr        |    5HR      |
+| Bootstrap             |     H     |      5hr        |    6HR      |
+| Make own icon         |     L     |      1hr        |    2HR      |
+| Total                 |           |    14hrs        |   16HRS     |
 
 
 ## Additional Libraries Used
 ### https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md#cheatsheets
-
+### https://getbootstrap.com/
+### https://www.w3schools.com/tags/
 
 ## Code Snippet
 
 ## Issues and Resolutions
+I had an issue with hamburger nav bar but realized I spelled a word wrong. 
