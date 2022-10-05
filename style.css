@@ -113,7 +113,7 @@ p {
     color: white;
     margin-right: 10px;
     transition: .3s;
-    
+
 }.socials a:hover {
     transform: translateY(10px);
 }
@@ -179,10 +179,10 @@ a {
     display: none;
 }
 
-.hamburger.focus {
+.hamburger:focus{
     outline: 0;
-
 }
+
 
 @media only screen and (max-width: 1000px) {
     .hamburger {
@@ -190,9 +190,26 @@ a {
         border: 0;
         background-color: transparent;
         color: white;
-        font-size: 30px
+        font-size: 30px;
+        margin: 20px;
+        align-self: flex-end;
     }
+
     ul {
         display: none;
+        margin: 0ppx;
     }
-} 
+
+    ul.show {
+        display: block;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .logo {
+        display: none;
+    }
+}
