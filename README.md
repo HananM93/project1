@@ -5,11 +5,11 @@
 |  Day   |                 Deliverable                  |   Status   |
 | :---   |                   :------:                   |       ---: |
 | Day 1  | Project Description                          | complete   |
-| Day 2  | Wireframes / Priority Matrix / Timeline      | Incomplete |
-| Day 3  | Core Application Structure (HTML, CSS, etc.) | Incomplete |
-| Day 4  | MVP & Bug Fixes                              | Incomplete |
-| Day 5  | Final Touches                                | Incomplete |
-| Day 6  | Present                                      | Incomplete |
+| Day 2  | Wireframes / Priority Matrix / Timeline      | complete   |
+| Day 3  | Core Application Structure (HTML, CSS, etc.) | complete   |
+| Day 4  | MVP & Bug Fixes                              | complete   | 
+| Day 5  | Final Touches                                | complete   |
+| Day 6  | Present                                      | complete   |
 
 
 ## Wireframes
@@ -21,15 +21,15 @@
 
 |  Component              | Priority  | Status   | Actual Time |
 | :---                    |   :---:   | :---:    |   ---:      |
-| Hamburger Menu          |     H     |  1hr     |     HR      |
-| Project Previews        |     H     |  1hr     |     HR      |
-| Regular Nav             |     H     |  1hr     |     HR      |
-| Adding Form             |     H     |  1hr     |     HR      |
-| Other sections and flex |     H     |  1hr     |     HR      |
-| Working with API        |     H     |  1hr     |     HR      |
-| Responsive              |     H     |  1hr     |     HR      |
-| Social Media Icons      |     H     |  1hr     |     HR      |
-| Total                   |           |  15.5hrs |     HRS     |
+| Hamburger Menu          |     H     |  2hr     |    3HR      |
+| Project Previews        |     H     |  1hr     |    2HR      |
+| Regular Nav             |     H     |  2hr     |    1HR      |
+| Adding Form             |     H     |  1hr     |    1HR      |
+| Other sections and flex |     H     |  4hr     |    5HR      |
+| Working with API        |     H     |  1hr     |    1HR      |
+| Responsive              |     H     |  2hr     |    3HR      |
+| Social Media Icons      |     L     |  1hr     |    1HR      |
+| Total                   |           |  12hrs   |   17HRS     |
 
 
 ### PostMVP
@@ -47,8 +47,9 @@
 
 ## Additional Libraries Used
 ### https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md#cheatsheets
-
+### https://getbootstrap.com/
 
 ## Code Snippet
 
 ## Issues and Resolutions
+I had an issue with hamburger nav bar but realized I spelled a word wrong. 
