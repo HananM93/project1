@@ -140,6 +140,8 @@ p {
     font-size: 18px;
     line-height: 1.7;
     font-weight: 500;
+    text-align: center;
+    
 }
 
 .center-text {
@@ -183,10 +185,10 @@ hr.solid {
   }
 
 .project-info {
-    width: 300px;
-    height: 500px;
+    width: 400px;
+    height: 550px;
     box-shadow: 5px 5px 2px rgb(200, 200, 200);
-    margin: 10px;
+    margin: 20px;
 }
 .inside-project {
     display: flex;
@@ -202,7 +204,7 @@ hr.solid {
 .project-img {
     margin-top: 25px;
     width: 250px;
-    border-radius: 125px;
+    border-radius: 15px;
 }
 
 hr {
