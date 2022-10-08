@@ -19,11 +19,11 @@ Add an image of your project
 ## Wireframes
 ![Screenshot-2022-07-15-at-09 32 32](https://user-images.githubusercontent.com/112597161/192940534-072acbfc-765f-40ad-8071-7832dee996b0.png)
 
-## Time/Priority Matrix
 
-Update to match your project.
 
-### MVP
+# Update to match your project.
+
+
 
 |  Component              | Priority  | Status   | Actual Time |
 | :---                    |   :---:   | :---:    |   ---:      |
@@ -37,8 +37,8 @@ Update to match your project.
 | Social Media Icons      |     L     |  1hr     |    1HR      |
 | Total                   |           |  12hrs   |   17HRS     |
 
-Update with your stretch goals
-### PostMVP
+# Update with your stretch goals below
+
 
 |  Component            | Priority  | Estimated Time  | Actual Time |
 | :---                  |   :---:   |     :---:       |        ---: |
@@ -49,7 +49,7 @@ Update with your stretch goals
 | Make own icon         |     L     |      1hr        |    2HR      |
 | Total                 |           |    14hrs        |   16HRS     |
 
-Add technologies used 
+# Add technologies used 
 
 ## Additional Libraries Used
 ### https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md#cheatsheets
